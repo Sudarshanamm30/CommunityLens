@@ -1,0 +1,15 @@
+metric,value
+Fixed Interval Updates,11.0
+Event Triggered Updates,4.0
+Update Reduction (%),63.63636363636363
+Fixed Computation Time (seconds),1.274300999990373
+Event Computation Time (seconds),0.4452906000005894
+Computation Time Saved (seconds),0.8290103999897835
+Computation Time Saved (%),65.05608957350316
+Average Fixed Detection Delay (days),0.5
+Average Event Detection Delay (days),0.0
+Average Fixed Community Stability,0.7764241067443953
+Average Event Community Stability,0.6762327655833881
+Detected Events,4.0
+Captured Events,4.0
+Event Capture Rate (%),100.0
